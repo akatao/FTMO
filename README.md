@@ -1,6 +1,6 @@
 <h3 align="center">
-  <a href="https://github.com/akatao/IMDbMazing/blob/main/assets/tmdbLogo.png">
-  <img src="https://github.com/akatao/IMDbMazing/blob/main/assets/tmdbLogo.png?raw=true" alt="Swiftmazing Logo" width="256">
+  <a href="https://github.com/akatao/FTMO/blob/main/assets/FTMO-logo-light.png">
+  <img src="https://github.com/akatao/FTMO/blob/main/assets/FTMO-logo-light.png?raw=true" alt="Swiftmazing Logo" width="256">
   </a>
 </h3>
 
