@@ -18,6 +18,12 @@ The current app is really good but it was made in Flutter and the iOS user reall
 The Apple's harduser knows the ecosystem and prefers the native iOS experience and is accustomed to Apple's behaviors and Guideline Interface.
 The idea here was to bring the native experience to the user with this entire prototype developed in SwiftUI.
 
+## Demo
+
+<video width="640" height="320" controls>
+  <source src="https://github.com/akatao/FTMO/blob/main/FTMO_Demo_light.mov" type="video/mov">
+</video>
+
 
 ## Features
 
