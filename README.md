@@ -35,7 +35,7 @@ The idea here was to bring the native experience to the user with this entire pr
 ### Prerequisites
 
 * [Swift](https://swift.org/) 5.0
-* [Swift](https://developer.apple.com/xcode/swiftui/) 5.0
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/) 5.0
 * [Xcode](https://developer.apple.com/xcode/) 15.1
 
 ### Installing
@@ -52,5 +52,5 @@ Open the directory project and double tap on FTMO.xcodeproj
 ## Built With
 
 * [Swift](https://swift.org/) 5.0
-* [Swift](https://developer.apple.com/xcode/swiftui/) 5.0
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/) 5.0
 * [Xcode](https://developer.apple.com/xcode/) 15.1
