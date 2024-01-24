@@ -36,6 +36,12 @@ The idea here was to bring the native experience to the user with this entire pr
 <img src="https://github.com/akatao/FTMO/blob/main/FTMO_4.png" align="right"
      title="App preview dark mode" width="220 " height="476">
 
+
+
+
+
+     
+
 * Modularization
 * View Code (SwiftUI)
 * Preview using UIViewRepresentable
