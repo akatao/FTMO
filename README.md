@@ -13,6 +13,11 @@
 
 A prototype of FTMO's iOS app based on the real App made in SwiftUI and Swift 5.
 
+What do you thing about the FTMO app being made completely native and in SwiftUI?
+The current app is really good but it was made in Flutter and the iOS user really understands the Web Mobile Experience, in Apple's Human Interface Guideline there is no Hamburguer menu for example.
+The Apple's harduser knows the ecosystem and prefers the native iOS experience and is accustomed to Apple's behaviors and Guideline Interface.
+The idea here was to bring the native experience to the user with this entire prototype developed in SwiftUI.
+
 
 ## Features
 
