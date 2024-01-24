@@ -21,10 +21,19 @@ The idea here was to bring the native experience to the user with this entire pr
 
 ## Features
 
-<img src="https://github.com/akatao/IMDbMazing/blob/main/assets/light3_.png" align="right"
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_0.png" align="right"
      title="App preview light mode" width="220  " height="476">
 
-<img src="https://github.com/akatao/IMDbMazing/blob/main/assets/dark3_.png" align="right"
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_1.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+     
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_2.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+     
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_3.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+     
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_4.png" align="right"
      title="App preview dark mode" width="220 " height="476">
 
 * Modularization
