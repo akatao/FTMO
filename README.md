@@ -32,18 +32,6 @@ The idea here was to bring the native experience to the user with this entire pr
 * Preview using UIViewRepresentable
 * Dark Mode
 
-</n>
-
-<img src="https://github.com/akatao/FTMO/blob/main/FTMO_2.png" align="right"
-     title="App preview dark mode" width="220 " height="476">
-
-<img src="https://github.com/akatao/FTMO/blob/main/FTMO_1.png" align="right"
-     title="App preview dark mode" width="220 " height="476">
-     
-<img src="https://github.com/akatao/FTMO/blob/main/FTMO_0.png" align="right"
-     title="App preview light mode" width="220  " height="476">
-     
-
 ### Prerequisites
 
 * [Swift](https://swift.org/) 5.0
@@ -66,3 +54,14 @@ Open the directory project and double tap on FTMO.xcodeproj
 * [Swift](https://swift.org/) 5.0
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/) 5.0
 * [Xcode](https://developer.apple.com/xcode/) 15.1
+
+## Screenshots
+
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_2.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_1.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+     
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_0.png" align="right"
+     title="App preview light mode" width="220  " height="476">
