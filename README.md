@@ -57,6 +57,12 @@ Open the directory project and double tap on FTMO.xcodeproj
 
 ## Screenshots
 
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_4.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+
+<img src="https://github.com/akatao/FTMO/blob/main/FTMO_3.png" align="right"
+     title="App preview dark mode" width="220 " height="476">
+     
 <img src="https://github.com/akatao/FTMO/blob/main/FTMO_2.png" align="right"
      title="App preview dark mode" width="220 " height="476">
 
